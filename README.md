@@ -1,2 +1,2 @@
-# This is the first pages instance for lorenzjason
+# Repository for Activities 9.1 and 9.2
 
